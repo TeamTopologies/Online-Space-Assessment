@@ -1,4 +1,4 @@
-# Online-Space-Assessment
+# Online Space Assessment
 
 Suggested tools and approaches to assess the trust dynamics of online spaces (especially chat tools) in an organization. Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable).
 
