@@ -19,7 +19,7 @@ Uses ideas relating to social trust boundaries (see the [Trust Boundaries templa
 
 Identify the different tools used for online spaces in use within the organization. These are typically chat tools (such as Slack, Teams, Twist, IRC, Yammer, Skype, etc.) but could be other immersive tools, too. 
 
-For each separate instance of one of these tools (where an "instance" means different adminstrators or different permission sets), list the total number of members. Then, for each channel in that space, list the number of members of each channel or chat within that space.
+For each separate instance of one of these tools (where an "instance" means different administrators or different permission sets), list the total number of members. Then, for each channel in that space, list the number of members of each channel or chat within that space.
 
 For each instance, and for each channel within that instance, determine whether the number of channel members is close to a trust boundary or whether the size falls between two trust boundary sizes.
 
